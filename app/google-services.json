@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "504575792550",
+    "firebase_url": "https://motivaapp-selecao.firebaseio.com",
+    "project_id": "motivaapp-selecao",
+    "storage_bucket": "motivaapp-selecao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504575792550:android:a964c4651999146e",
+        "android_client_info": {
+          "package_name": "br.com.sandes.motivaappteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504575792550-cghp9sqsvd7normn9emdog90qjg80002.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrCqTCFlzHTG9rt5JlfJtEX1Ac-VX3aQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
